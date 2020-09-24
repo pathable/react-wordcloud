@@ -10,6 +10,8 @@ node_modules
 *.swp
 *.swo
 
+dist
+
 # project
 .docz
 package-lock.json
