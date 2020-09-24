@@ -156,6 +156,8 @@ export default function Cloud() {
       dx = ~~dxdy[0];
       dy = ~~dxdy[1];
 
+      console.log({ dxdy, t, dt, board, tag, bounds });
+
       if (Math.min(Math.abs(dx), Math.abs(dy)) >= maxDelta) break;
 
       tag.x = startX + dx;
