@@ -1,6 +1,6 @@
 {
   "name": "react-wordcloud",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Simple React + D3 wordcloud component with powerful features.",
   "license": "MIT",
   "homepage": "https://react-wordcloud.netlify.com/",
@@ -53,7 +53,6 @@
     "@types/lodash.clonedeep": "^4.5.6",
     "@types/lodash.debounce": "^4.0.6",
     "@types/seedrandom": "^2.4.28",
-    "docz": "^2.3.1",
     "eslint-config-xo-react": "^0.23.0",
     "eslint-config-xo-typescript": "^0.31.0",
     "husky": "^4.2.5",
